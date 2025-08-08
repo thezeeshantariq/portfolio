@@ -65,7 +65,7 @@ A curated collection of full-stack platforms across healthtech, education, finte
 
 ---
 
-[Attributes Logo](https://ec82d403f672156276c1493dc9649602.cdn.bubble.io/cdn-cgi/image/w=,h=,f=auto,dpr=1,fit=contain/f1707340426144x691218218532334600/The%20Attributes%20Logo%20png%20-%20transparent.png)
+![Attributes Logo](https://ec82d403f672156276c1493dc9649602.cdn.bubble.io/cdn-cgi/image/w=,h=,f=auto,dpr=1,fit=contain/f1707340426144x691218218532334600/The%20Attributes%20Logo%20png%20-%20transparent.png)
 ## The Attributes Inc.  
 ![Next.js](https://img.shields.io/badge/SSG-Next.js-black?logo=next.js)
 ![Sanity](https://img.shields.io/badge/CMS-Sanity-EF3A5D?logo=sanity)
@@ -121,15 +121,15 @@ A curated collection of full-stack platforms across healthtech, education, finte
 
 | Logo | Project Name            | Region        | Key Stack                               | Description                                         |
 |------|-------------------------|---------------|------------------------------------------|-----------------------------------------------------|
-| ![eShaafi](https://via.placeholder.com/20) | **eShaafi**             | Pakistan      | Next.js, React Native, MongoDB           | Digital healthcare with 24/7 video consultations    |
-| ![SkilTrak](https://via.placeholder.com/20) | **SkilTrak**            | Australia     | Next.js, NestJS, PostgreSQL, Flutter     | Student placement platform with automation          |
-| ![Sensa](https://via.placeholder.com/20) | **Sensa Waste**         | UK            | Next.js (SSG)                            | Commercial waste management & logistics             |
-| ![MedReps](https://via.placeholder.com/20) | **MedReps**             | USA           | Next.js, Strapi, PostgreSQL, Stripe      | Medical sales job board with career resources       |
-| ![MarketX](https://via.placeholder.com/20) | **MarketX Ventures**    | Global        | Next.js, NestJS, AWS RDS & Lambda        | Pre-IPO investment platform                         |
-| ![Attributes](https://via.placeholder.com/20) | **The Attributes Inc.** | USA           | Next.js (SSG), Sanity                    | Leadership & performance consultancy                |
-| ![Maple](https://via.placeholder.com/20) | **Maple Ridge School**  | Canada        | Next.js                                  | K–4 science-based public education site             |
-| ![Metro](https://via.placeholder.com/20) | **Metro Talent**        | Canada        | Next.js, Elasticsearch                   | Job portal for major retail brand                   |
-| ![Rose](https://via.placeholder.com/20) | **La Vie en Rose**      | Canada        | Next.js, Elasticsearch                   | Talent platform for fashion retailer                |
+| ![eShaafi](https://www.eshaafi.com/_next/static/media/eshaafi-logo.2b4522fb.svg) | **eShaafi**             | Pakistan      | Next.js, React Native, MongoDB           | Digital healthcare with 24/7 video consultations    |
+| ![SkilTrak](https://www.skiltrak.com.au/images/site/logo-light.webp) | **SkilTrak**            | Australia     | Next.js, NestJS, PostgreSQL, Flutter     | Student placement platform with automation          |
+| ![Sensa](https://www.sensawaste.com/images/logo.png?v=20250808080505) | **Sensa Waste**         | UK            | Next.js (SSG)                            | Commercial waste management & logistics             |
+| ![MedReps](https://medreps.com/images/logo.png) | **MedReps**             | USA           | Next.js, Strapi, PostgreSQL, Stripe      | Medical sales job board with career resources       |
+| ![MarketX](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Y5yuFBjHPibjxVGQmkWlxCcPW1H7PljAqA&s) | **MarketX Ventures**    | Global        | Next.js, NestJS, AWS RDS & Lambda        | Pre-IPO investment platform                         |
+| ![Attributes](https://ec82d403f672156276c1493dc9649602.cdn.bubble.io/cdn-cgi/image/w=,h=,f=auto,dpr=1,fit=contain/f1707340426144x691218218532334600/The%20Attributes%20Logo%20png%20-%20transparent.png) | **The Attributes Inc.** | USA           | Next.js (SSG), Sanity                    | Leadership & performance consultancy                |
+| ![Maple](https://mapleridge.school/wp-content/uploads/2024/06/cropped-IMG_1624-1-300x193.png) | **Maple Ridge School**  | Canada        | Next.js                                  | K–4 science-based public education site             |
+| ![Metro](https://static.relevance.studio/metro/public/logo.svg) | **Metro Talent**        | Canada        | Next.js, Elasticsearch                   | Job portal for major retail brand                   |
+| ![Rose](https://www.waldengalleria.com/wp-content/uploads/sites/3/2025/04/La-Vie-En-Rose_logo.png) | **La Vie en Rose**      | Canada        | Next.js, Elasticsearch                   | Talent platform for fashion retailer                |
 | ![Kross](https://via.placeholder.com/20) | **Kross.kr**            | South Korea   | Next.js, NestJS, PostgreSQL, Encryption  | Secure banking platform (no longer involved)        |
 
 ---
